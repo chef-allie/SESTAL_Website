@@ -356,7 +356,7 @@
 
 
   /*---------------------------------------
-      BLOG            
+     PRODUCTS           
   -----------------------------------------*/
 
   .blog-header {
@@ -447,6 +447,11 @@
 
   .newsletter-form button {
     background: var(--secondary-color);
+  }
+
+  .location{
+    padding-top: 7em;
+    padding-left: 20px;
   }
 
   
