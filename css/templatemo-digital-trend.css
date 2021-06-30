@@ -328,8 +328,13 @@
   /*---------------------------------------
      CAROUSEL             
   -----------------------------------------*/
-  .container {
+  .carousel-container {
     padding-top: 75px;
+    height: 800px;
+  }
+
+  .carousel-img {
+    height: 750px;
   }
 
 
