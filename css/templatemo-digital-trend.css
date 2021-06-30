@@ -476,14 +476,22 @@
     margin: 0 10px;
   }
 
-  .copyright-text,
   .footer-link,
   .site-footer .social-icon {
-    margin-top: 6em;
+    margin-top: 2em;
   }
 
   .copyright-text {
     text-align: center;
+    font-size: x-small;
+  }
+
+  .footer-titles {
+    font-size: medium;
+  }
+
+  .footer-text {
+    font-size: small;
   }
 
   .google-map {
@@ -503,6 +511,7 @@
     position: relative;
     padding: 0;
     margin: 4em 0 0 0;
+    
   }
 
   .social-icon li {
@@ -516,6 +525,14 @@
     font-size: var(--base-font-size);
     margin: 10px;
     text-align: center;
+  }
+
+  .fa-facebook-square {
+    color: #3b5998;
+    background-image: linear-gradient( to bottom, transparent 20%, white 20%, white 93%, transparent 93% );
+    background-size: 55%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
   }
 
 
