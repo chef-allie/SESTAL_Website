@@ -406,17 +406,22 @@
     font-size: 18px;
   }
 
-  .card {
+  .card  {
     padding-top: 15px;
     padding-left: 25px;
     padding-right: 25px;
     text-align: center;
     font-size:75%;
-    border-bottom: #DCAE96  solid 2px;
+    border-bottom: #DCAE96  solid 4px;
+    background-color: #f2f0e6;
   }
 
   .dynast{
     padding-top: 63px;
+  }
+
+  .img-fluid {
+    background-color:#0099CC;
   }
   
 
