@@ -100,7 +100,7 @@
   b, 
   strong {
     letter-spacing: 0;
-    color: var(--secondary-color);
+    color: #36454f;
   }
 
 
@@ -393,7 +393,7 @@
 
   .blog {
     text-align: center;
-    padding-left: 70px;
+    padding-left: 85px;
   }
 
   .blog-sidebar img {
@@ -409,9 +409,10 @@
   .box {
     padding-top: 15px;
     padding-left: 25px;
-    padding-right: 15px;
+    padding-right: 25px;
     text-align: center;
     font-size:75%;
+    border-bottom: #DCAE96  solid 2px;
   }
 
   .dynast{
