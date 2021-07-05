@@ -330,11 +330,12 @@
   -----------------------------------------*/
   .carousel-container {
     padding-top: 75px;
-    height: 800px;
+    height: 750px;
+    width: 75%;
   }
 
   .carousel-img {
-    height: 750px;
+    height: 700px;
   }
 
 
@@ -469,7 +470,6 @@
     background: #e0dada;
     padding: 0px 100px 0px 100px;
     opacity: 0.7;
-    margin-top: 3em;
   }
 
   .site-footer a {
