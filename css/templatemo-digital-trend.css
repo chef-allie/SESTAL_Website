@@ -330,11 +330,12 @@
   -----------------------------------------*/
   .carousel-container {
     padding-top: 75px;
-    width: 75%;
+    height: auto;
+    width: auto;
   }
 
   .carousel-img {
-    height: 700px;
+    object-fit: cover
   }
 
 
@@ -345,7 +346,7 @@
   .hero {
     position: relative;
     overflow: hidden;
-    background-color:deepskyblue;
+    background-color:#66ffff;
   }
 
   .hero-image {
