@@ -335,8 +335,30 @@
   }
 
   .carousel-img {
-    object-fit: cover
+    object-fit: cover;
   }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+  height: 75px;
+  width: 75px;
+  background-size: 75%, 75%;
+  border-radius: 60%;
+  filter: invert(1);
+  background-color: black;
+  opacity:0.8;
+  }
+
+  .carousel-control-prev-icon:hover,
+  .carousel-control-next-icon:hover {
+   opacity: 1;
+  }
+
+  .carousel-indicators li.active{
+    filter: invert(1);
+    opacity: 0.5
+  }
+
 
 
   /*---------------------------------------
