@@ -330,11 +330,12 @@
   -----------------------------------------*/
   .carousel-container {
     padding-top: 75px;
-    height: 800px;
+    height: 750px;
+    width: 80%;
   }
 
   .carousel-img {
-    height: 750px;
+    height: 700px;
   }
 
 
@@ -455,7 +456,7 @@
   }
 
   .location{
-    padding-top: 7em;
+    padding-top: 7.5em;
     padding-left: 20px;
   }
 
